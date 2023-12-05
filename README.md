@@ -17,6 +17,8 @@ We call it [zkEVM](https://zksync.io/zkevm): web3, Layer 2, scaling functionalit
 
 ### Initial setup
 
+#### Development setup
+
 The frontend team chose the `yarn@berry` package manager, so ensure you install `node` version **LTS@14** after configuring `yarn`.
 
 ```bash
